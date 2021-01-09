@@ -1,0 +1,450 @@
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\Qex.exe.config
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\Qex.exe
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\Qex.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\ListViewPrinter.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\ObjectListView.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\qexLibrary.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\qexLibrary.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\ListViewPrinter.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\ObjectListView.xml
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiQexStudio.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmPresupuesto2.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmConsumoItemsExcel.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmTareasImportExcel.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmConsumoPresEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmConsumoEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmImportarQex.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmImportarQexSplash.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmImportarTareasGR.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmPresupuestoEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmProcess.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmProyectoEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmProyectoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmGrupoRecursoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmRecursoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmProyectos3.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmPresupuesto.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmRubroPresEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmRubroPresNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmSelectTareasPres.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmSelectRecursosPres.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmTareaPresEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmTareaPresNueva.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmTareas2.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmRecursos.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmSelectRecursos.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmTareaEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmPresupuestoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmTareaNueva.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmRubroEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmRubroNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmWarningMessage.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.MDIParent1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmRecursosImportExcel.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmReport.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmResults.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmOptions.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmPrintPreview.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmEstimate.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmResources.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.frmTest.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.Properties.Resources.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiGR2020.Resource1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\uiQexStudio.csproj.GenerateResource.Cache
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\Qex.exe
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiGR2020\obj\Debug\Qex.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Items.xlsx
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Recursos de Items.xlsx
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Plantillas Excel\Catalogo Recursos - Importar Recursos.xlsx
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Qex.exe.config
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Qex.exe.manifest
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Qex.application
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Qex.exe
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\Qex.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\ListViewPrinter.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\ObjectListView.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\qexLibrary.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\MySql.Data.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\qexLibrary.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\ListViewPrinter.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\ObjectListView.xml
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiQexStudio.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmConsumoItemsExcel.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareasImportExcel.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmConsumoPresEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmConsumoEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmImportarQex.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmImportarQexSplash.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmImportarTareasGR.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmPresupuestoEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmProcess.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmProyectoEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmProyectoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmGrupoRecursoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmMain.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmRecursoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmProyectos3.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmPresupuesto.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroPresEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroPresNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmSelectTareasPres.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmSelectRecursosPres.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaPresEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaPresNueva.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareas2.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmRecursos.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmSelectRecursos.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmPresupuestoNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaNueva.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroEditar.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroNuevo.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmWarningMessage.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.MDIParent1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmRecursosImportExcel.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmReport.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmResults.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmOptions.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmPrintPreview.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmEstimate.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmResources.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmGrupoMove.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmLicenseNearExpired.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmLogin.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmProcesando.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.frmTest.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.Properties.Resources.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiGR2020.Resource1.resources
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\uiQexStudio.csproj.GenerateResource.Cache
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\Qex.exe.manifest
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\Qex.application
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\Qex.exe
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\obj\Debug\Qex.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\uiQex\bin\Debug\QexStudio_Cambios.txt
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csprojAssemblyReference.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoItemsExcel.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareasImportExcel.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoPresEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarQex.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarQexSplash.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarTareasGR.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuestoEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProcess.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectoEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectoNuevo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmGrupoRecursoNuevo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmMain.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursoNuevo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectos3.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuesto.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroPresEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroPresNuevo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectTareasPres.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectRecursosPres.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaPresEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaPresNueva.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareas2.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursos.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectRecursos.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuestoNuevo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaNueva.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroEditar.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroNuevo.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmWarningMessage.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.MDIParent1.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursosImportExcel.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmReport.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmResults.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmOptions.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPrintPreview.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmEstimate.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmResources.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmGrupoMove.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProcesando.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTest.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.Properties.Resources.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.Resource1.resources
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.GenerateResource.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio_Cambios.txt
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Items.xlsx
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Recursos de Items.xlsx
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Recursos - Importar Recursos.xlsx
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ObjectListView.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\qexLibrary.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\DocX.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\qexLibrary.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ListViewPrinter.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ObjectListView.xml
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.CopyComplete
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe.config
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe.manifest
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.application
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.exe.manifest
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.application
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.exe
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Qex.ico
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Qex.ico
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio_Cambios.txt
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Items.xlsx
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Recursos de Items.xlsx
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Recursos - Importar Recursos.xlsx
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe.config
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe.manifest
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.application
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.pdb
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ObjectListView.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\qexLibrary.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.Platform.Generic.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.Platform.Win32.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ClosedXML.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\DocX.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\DocumentFormat.OpenXml.dll
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\qexLibrary.pdb
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ListViewPrinter.pdb
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ObjectListView.xml
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csprojAssemblyReference.cache
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoItemsExcel.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareasImportExcel.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoPresEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarQex.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarQexSplash.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarTareasGR.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuestoEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProcess.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectoEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectoNuevo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmGrupoRecursoNuevo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmMain.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursoNuevo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectos3.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuesto.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroPresEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroPresNuevo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectTareasPres.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectRecursosPres.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaPresEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaPresNueva.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareas2.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursos.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectRecursos.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuestoNuevo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaNueva.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroEditar.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroNuevo.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmWarningMessage.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.MDIParent1.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursosImportExcel.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmReport.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmResults.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmOptions.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPrintPreview.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmEstimate.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmResources.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmGrupoMove.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProcesando.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTest.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.Properties.Resources.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.Resource1.resources
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.GenerateResource.cache
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.exe.manifest
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.application
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.CopyComplete
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.exe
+D:\GoogleDrive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Qex.ico
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio_Cambios.txt
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Items.xlsx
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Recursos de Items.xlsx
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\Plantillas Excel\Catalogo Recursos - Importar Recursos.xlsx
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe.config
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe.manifest
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.application
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.exe
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\QexStudio.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ObjectListView.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\qexLibrary.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\System.Data.SQLite.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ClosedXML.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\DocX.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\DocumentFormat.OpenXml.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\qexLibrary.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ListViewPrinter.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\ObjectListView.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\System.Data.SQLite.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\System.Data.SQLite.dll.config
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\bin\Debug\System.Windows.Forms.Ribbon35.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csprojAssemblyReference.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoItemsExcel.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareasImportExcel.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoPresEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmConsumoEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarQex.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarQexSplash.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmImportarTareasGR.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuestoEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProcess.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectoEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmGrupoRecursoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmMain.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProyectos3.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuesto.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroPresEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroPresNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectTareasPres.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectRecursosPres.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaPresEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaPresNueva.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareas2.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursos.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmSelectRecursos.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPresupuestoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTareaNueva.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRubroNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmWarningMessage.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.MDIParent1.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmRecursosImportExcel.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmReport.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmResults.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmOptions.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmPrintPreview.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmEstimate.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmResources.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmGrupoMove.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmProcesando.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.frmTest.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.Properties.Resources.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiGR2020.Resource1.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.GenerateResource.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.CoreCompileInputs.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.exe.manifest
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.application
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\uiQexStudio.csproj.CopyComplete
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.exe
+C:\10-UbLocal\20-UniBim\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\uiQex\obj\Debug\QexStudio.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\Qex.ico
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\QexStudio_Cambios.txt
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\DataBase\QexStudio.db3
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Items.xlsx
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\Plantillas Excel\Catalogo Items - Importar Recursos de Items.xlsx
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\Plantillas Excel\Catalogo Recursos - Importar Recursos.xlsx
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\QexStudio.exe.config
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\QexStudio.exe.manifest
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\QexStudio.application
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\QexStudio.exe
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\QexStudio.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ObjectListView.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\SQLite.Net.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\System.Data.SQLite.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ClosedXML.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\DocX.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\DocumentFormat.OpenXml.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ObjectListView.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\System.Data.SQLite.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\System.Data.SQLite.dll.config
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiQexStudio.csprojAssemblyReference.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmConsumoItemsExcel.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareasImportExcel.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmConsumoPresEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmConsumoEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmImportarQex.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmImportarQexSplash.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmImportarTareasGR.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmPresupuestoEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmProcess.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmProyectoEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmProyectoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmGrupoRecursoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmMain.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmRecursoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmProyectos3.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmPresupuesto.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroPresEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroPresNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmSelectTareasPres.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmSelectRecursosPres.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaPresEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaPresNueva.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareas2.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmRecursos.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmSelectRecursos.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmPresupuestoNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmTareaNueva.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroEditar.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmRubroNuevo.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmWarningMessage.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.MDIParent1.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmRecursosImportExcel.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmReport.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmResults.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmOptions.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmPrintPreview.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmEstimate.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmResources.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmGrupoMove.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmProcesando.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.frmTest.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.Properties.Resources.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiGR2020.Resource1.resources
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiQexStudio.csproj.GenerateResource.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiQexStudio.csproj.CoreCompileInputs.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\QexStudio.exe.manifest
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\QexStudio.application
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\uiQexStudio.csproj.CopyComplete
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\QexStudio.exe
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\obj\Debug\QexStudio.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\x64\SQLite.Interop.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\x86\SQLite.Interop.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ExcelNumberFormat.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\System.IO.Packaging.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ClosedXML.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ClosedXML.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\DocumentFormat.OpenXml.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ExcelNumberFormat.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\uiQex\bin\Debug\ListViewPrinter.dll

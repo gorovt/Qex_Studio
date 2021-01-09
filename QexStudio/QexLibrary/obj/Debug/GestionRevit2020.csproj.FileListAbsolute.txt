@@ -1,0 +1,37 @@
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\bin\Debug\GestionRevit2020.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\bin\Debug\GestionRevit2020.pdb
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\bin\Debug\ClosedXML.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\bin\Debug\DocX.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\bin\Debug\System.Data.SQLite.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\bin\Debug\DocumentFormat.OpenXml.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\bin\Debug\System.Data.SQLite.pdb
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\obj\Debug\GestionRevit2020.dll
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\obj\Debug\GestionRevit2020.pdb
+E:\GoogleDrive\Goro PMO Cloud\10-Proyectos\Visual Studio\Windows Applications\GestionRevit2020\GestionRevit2020\obj\Debug\GestionRevit2020.csprojResolveAssemblyReference.cache
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\GestionRevit2020.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\GestionRevit2020.pdb
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\ClosedXML.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\DocumentFormat.OpenXml.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\DocX.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\SQLite.Net.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\SQLite.Net.Platform.Generic.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\SQLite.Net.Platform.Win32.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\System.Data.SQLite.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\bin\Debug\System.Data.SQLite.xml
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\obj\Debug\GestionRevit2020.dll
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\obj\Debug\GestionRevit2020.pdb
+E:\40-VisualStudio\Desktop\GestionRevit2020\GestionRevit2020\obj\Debug\GestionRevit2020.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\GestionRevit2020.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\GestionRevit2020.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\System.Data.SQLite.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\System.Data.SQLite.xml
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\obj\Debug\GestionRevit2020.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\obj\Debug\GestionRevit2020.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\GestionRevit2020\obj\Debug\GestionRevit2020.pdb

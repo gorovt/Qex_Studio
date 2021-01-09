@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uiQexStudio", "uiQex\uiQexStudio.csproj", "{F5086E01-BC3B-4128-BB90-0AFC46C56037}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Qex_Studio", "Setup_Qex_Studio\Setup_Qex_Studio.vdproj", "{9FBB56DE-AA17-4EEF-8974-755304808F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5086E01-BC3B-4128-BB90-0AFC46C56037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5086E01-BC3B-4128-BB90-0AFC46C56037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5086E01-BC3B-4128-BB90-0AFC46C56037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5086E01-BC3B-4128-BB90-0AFC46C56037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBB56DE-AA17-4EEF-8974-755304808F74}.Debug|Any CPU.ActiveCfg = Debug
+		{9FBB56DE-AA17-4EEF-8974-755304808F74}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4AD1604-53D6-46B7-8761-4DF336E244DF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,951 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5086E01-BC3B-4128-BB90-0AFC46C56037}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>uiGR2020</RootNamespace>
+    <AssemblyName>QexStudio</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Qex-128x128.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F951211307E0D7694E35A48DD8AEABCEF36F378F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>uiQexStudio_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML, Version=0.95.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.95.4\lib\net46\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocX, Version=1.0.0.22, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocX.1.0.0.22\lib\net40\DocX.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.10.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="ListViewPrinter, Version=2.5.0.27344, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\ListViewPrinter.dll</HintPath>
+    </Reference>
+    <Reference Include="ObjectListView, Version=2.9.1.1072, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4, processorArchitecture=MSIL">
+      <HintPath>..\packages\ObjectListView.Official.2.9.1\lib\net20\ObjectListView.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLite.Net, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SQLite.Net.Core-PCL.3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SQLite.Net.Platform.Generic, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SQLite.Net-PCL.3.1.1\lib\net40\SQLite.Net.Platform.Generic.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SQLite.Net.Platform.Win32, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SQLite.Net-PCL.3.1.1\lib\net4\SQLite.Net.Platform.Win32.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.105.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.105.0\lib\net451\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.0.1\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.0.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Ribbon" />
+    <Reference Include="System.Windows.Forms.Ribbon35, Version=3.5.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Windows.Forms.Ribbon35.3.5.8.0\lib\net35\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\AnalisisItem.cs" />
+    <Compile Include="Entities\ConsumoItem.cs" />
+    <Compile Include="Entities\ConsumoPres.cs" />
+    <Compile Include="Entities\ConsumoPresItem.cs" />
+    <Compile Include="Entities\ConsumoRecurso.cs" />
+    <Compile Include="Entities\DataAccess.cs" />
+    <Compile Include="Entities\GoroTimer.cs" />
+    <Compile Include="Entities\GrOptions.cs" />
+    <Compile Include="Entities\GrupoImportado.cs" />
+    <Compile Include="Entities\GrupoRecurso.cs" />
+    <Compile Include="Entities\ItemPres.cs" />
+    <Compile Include="Entities\ItemRecurso.cs" />
+    <Compile Include="Entities\loginDb.cs" />
+    <Compile Include="Entities\MaterialImportado.cs" />
+    <Compile Include="Entities\Presupuesto.cs" />
+    <Compile Include="Entities\Project.cs" />
+    <Compile Include="Entities\Proyecto.cs" />
+    <Compile Include="Entities\Quantity.cs" />
+    <Compile Include="Entities\Recurso.cs" />
+    <Compile Include="Entities\Rubro.cs" />
+    <Compile Include="Entities\RubroImportado.cs" />
+    <Compile Include="Entities\RubroPres.cs" />
+    <Compile Include="Entities\Tarea.cs" />
+    <Compile Include="Entities\TareaImportada.cs" />
+    <Compile Include="Entities\TareaPres.cs" />
+    <Compile Include="Entities\Task.cs" />
+    <Compile Include="Entities\Tools.cs" />
+    <Compile Include="Entities\WarningItem.cs" />
+    <Compile Include="Forms Item Catalog\frmConsumoItemsExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmConsumoItemsExcel.Designer.cs">
+      <DependentUpon>frmConsumoItemsExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareasImportExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareasImportExcel.Designer.cs">
+      <DependentUpon>frmTareasImportExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmConsumoPresEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmConsumoPresEditar.Designer.cs">
+      <DependentUpon>frmConsumoPresEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsumoEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsumoEditar.Designer.cs">
+      <DependentUpon>frmConsumoEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImportarQex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImportarQex.Designer.cs">
+      <DependentUpon>frmImportarQex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImportarQexSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImportarQexSplash.Designer.cs">
+      <DependentUpon>frmImportarQexSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmImportarTareasGR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmImportarTareasGR.Designer.cs">
+      <DependentUpon>frmImportarTareasGR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPresupuestoEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPresupuestoEditar.Designer.cs">
+      <DependentUpon>frmPresupuestoEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProyectoEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProyectoEditar.Designer.cs">
+      <DependentUpon>frmProyectoEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProyectoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProyectoNuevo.Designer.cs">
+      <DependentUpon>frmProyectoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmGrupoRecursoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmGrupoRecursoNuevo.Designer.cs">
+      <DependentUpon>frmGrupoRecursoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmRecursoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmRecursoNuevo.Designer.cs">
+      <DependentUpon>frmRecursoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmProyectos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmProyectos.Designer.cs">
+      <DependentUpon>frmProyectos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmPresupuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmPresupuesto.Designer.cs">
+      <DependentUpon>frmPresupuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Groups and Items\frmRubroPresEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Groups and Items\frmRubroPresEditar.Designer.cs">
+      <DependentUpon>frmRubroPresEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Groups and Items\frmRubroPresNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Groups and Items\frmRubroPresNuevo.Designer.cs">
+      <DependentUpon>frmRubroPresNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmSelectTareasPres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmSelectTareasPres.Designer.cs">
+      <DependentUpon>frmSelectTareasPres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmSelectRecursosPres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmSelectRecursosPres.Designer.cs">
+      <DependentUpon>frmSelectRecursosPres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmTareaPresEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmTareaPresEditar.Designer.cs">
+      <DependentUpon>frmTareaPresEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTareaPresNueva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTareaPresNueva.Designer.cs">
+      <DependentUpon>frmTareaPresNueva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareas.Designer.cs">
+      <DependentUpon>frmTareas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmRecursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmRecursos.Designer.cs">
+      <DependentUpon>frmRecursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmSelectRecursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmSelectRecursos.Designer.cs">
+      <DependentUpon>frmSelectRecursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareaEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareaEditar.Designer.cs">
+      <DependentUpon>frmTareaEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPresupuestoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPresupuestoNuevo.Designer.cs">
+      <DependentUpon>frmPresupuestoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareaNueva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmTareaNueva.Designer.cs">
+      <DependentUpon>frmTareaNueva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRubroEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRubroEditar.Designer.cs">
+      <DependentUpon>frmRubroEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmRubroNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Item Catalog\frmRubroNuevo.Designer.cs">
+      <DependentUpon>frmRubroNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmRecursosImportExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Resource Catalog\frmRecursosImportExcel.Designer.cs">
+      <DependentUpon>frmRecursosImportExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmResults.Designer.cs">
+      <DependentUpon>frmResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOptions.Designer.cs">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmPrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmPrintPreview.Designer.cs">
+      <DependentUpon>frmPrintPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmProcess.Designer.cs">
+      <DependentUpon>frmProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmEstimate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmEstimate.Designer.cs">
+      <DependentUpon>frmEstimate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Estimates\frmResources.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Estimates\frmResources.Designer.cs">
+      <DependentUpon>frmResources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms Groups and Items\frmGrupoMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms Groups and Items\frmGrupoMove.Designer.cs">
+      <DependentUpon>frmGrupoMove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProcesando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProcesando.Designer.cs">
+      <DependentUpon>frmProcesando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTest.Designer.cs">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmWarningMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmWarningMessage.Designer.cs">
+      <DependentUpon>frmWarningMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListViewPrinter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms Item Catalog\frmConsumoItemsExcel.resx">
+      <DependentUpon>frmConsumoItemsExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Item Catalog\frmTareasImportExcel.resx">
+      <DependentUpon>frmTareasImportExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmConsumoPresEditar.resx">
+      <DependentUpon>frmConsumoPresEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConsumoEditar.resx">
+      <DependentUpon>frmConsumoEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportarQex.resx">
+      <DependentUpon>frmImportarQex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportarQexSplash.resx">
+      <DependentUpon>frmImportarQexSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Item Catalog\frmImportarTareasGR.resx">
+      <DependentUpon>frmImportarTareasGR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPresupuestoEditar.resx">
+      <DependentUpon>frmPresupuestoEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmProcess.resx">
+      <DependentUpon>frmProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProyectoEditar.resx">
+      <DependentUpon>frmProyectoEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProyectoNuevo.resx">
+      <DependentUpon>frmProyectoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Resource Catalog\frmGrupoRecursoNuevo.resx">
+      <DependentUpon>frmGrupoRecursoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Resource Catalog\frmRecursoNuevo.resx">
+      <DependentUpon>frmRecursoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmProyectos.resx">
+      <DependentUpon>frmProyectos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmPresupuesto.resx">
+      <DependentUpon>frmPresupuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Groups and Items\frmRubroPresEditar.resx">
+      <DependentUpon>frmRubroPresEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Groups and Items\frmRubroPresNuevo.resx">
+      <DependentUpon>frmRubroPresNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmSelectTareasPres.resx">
+      <DependentUpon>frmSelectTareasPres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmSelectRecursosPres.resx">
+      <DependentUpon>frmSelectRecursosPres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmTareaPresEditar.resx">
+      <DependentUpon>frmTareaPresEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTareaPresNueva.resx">
+      <DependentUpon>frmTareaPresNueva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Item Catalog\frmTareas.resx">
+      <DependentUpon>frmTareas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Resource Catalog\frmRecursos.resx">
+      <DependentUpon>frmRecursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmSelectRecursos.resx">
+      <DependentUpon>frmSelectRecursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Item Catalog\frmTareaEditar.resx">
+      <DependentUpon>frmTareaEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPresupuestoNuevo.resx">
+      <DependentUpon>frmPresupuestoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Item Catalog\frmTareaNueva.resx">
+      <DependentUpon>frmTareaNueva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRubroEditar.resx">
+      <DependentUpon>frmRubroEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Item Catalog\frmRubroNuevo.resx">
+      <DependentUpon>frmRubroNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmWarningMessage.resx">
+      <DependentUpon>frmWarningMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Resource Catalog\frmRecursosImportExcel.resx">
+      <DependentUpon>frmRecursosImportExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmResults.resx">
+      <DependentUpon>frmResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOptions.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmPrintPreview.resx">
+      <DependentUpon>frmPrintPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmEstimate.resx">
+      <DependentUpon>frmEstimate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Estimates\frmResources.resx">
+      <DependentUpon>frmResources.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms Groups and Items\frmGrupoMove.resx">
+      <DependentUpon>frmGrupoMove.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProcesando.resx">
+      <DependentUpon>frmProcesando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="DataBase\QexStudio.db3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Plantillas Excel\Catalogo Items - Importar Items.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas Excel\Catalogo Items - Importar Recursos de Items.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Plantillas Excel\Catalogo Recursos - Importar Recursos.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="uiQexStudio_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\allow_users_edit_ranges.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bucket_truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receipt_invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scroll_pane_tree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table_money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zone_money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server_components.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GR2020-Header.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_package1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_package1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel_imports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shape_square.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shape_square_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shape_square_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shape_square_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GR-Logo-64x60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting_tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google_webmaster_tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GR2020_building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opened_folder-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GR-Logo-32x31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting_tools16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_empty16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QexICO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_white_copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_white_paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table_import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Qex_icon_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_view_detail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saved_imports16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GR-Logo16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel_exports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check_boxes_series16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check_box_uncheck16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_package16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_delete16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_magnify16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_add16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_list_numbers16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_add16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_view_list16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_delete16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_edit16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_package16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_edit16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Qex-128x128.ico" />
+    <Content Include="Qex.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="QexStudio_Cambios.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Updates.txt" />
+    <Content Include="x64\SQLite.Interop.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="x86\SQLite.Interop.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\E62D15A52-ByN.jpg" />
+    <None Include="Resources\chevron-expand.png" />
+    <None Include="Resources\chevron.png" />
+    <None Include="Resources\help16.png" />
+    <None Include="Resources\Logo-QEX-01-250x150.png" />
+    <None Include="Resources\Qex-32x32.png" />
+    <None Include="Resources\book--arrow16.png" />
+    <None Include="Resources\document-epub16.png" />
+    <None Include="Resources\document-invoice16.png" />
+    <None Include="Resources\blue-document-word-text16.png" />
+    <None Include="Resources\table-excel16.png" />
+    <None Include="Resources\table_excel.png" />
+    <None Include="Resources\table_import1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,15 @@
+﻿***************************************************************************
+Qex Studio - Log de cambios
+***************************************************************************
+	En este documento se detallan los cambios realizados al software 
+	Qex Studio.
+
+Versión 1.1
+***************************************************************************
+	- Mejora en la velocidad de proceso de los Presupuestos
+	- Se corrigieron errores en la importación de Archivos Qex
+
+
+Versión 1.0
+***************************************************************************
+	- Versión inicial

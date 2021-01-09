@@ -1,0 +1,40 @@
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\qexLibrary.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\qexLibrary.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\ClosedXML.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\DocX.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\ObjectListView.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\SQLite.Net.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\bin\Release\ObjectListView.xml
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\obj\Release\qexLibrary.dll
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\obj\Release\qexLibrary.pdb
+C:\Users\Goro\Documents\40-VisualStudio\Desktop\QexStudio\QexLibrary\obj\Release\QexLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\bin\Release\qexLibrary.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\bin\Release\qexLibrary.pdb
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\bin\Release\ObjectListView.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\bin\Release\SQLite.Net.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\bin\Release\ObjectListView.xml
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\obj\Release\QexLibrary.csprojAssemblyReference.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\obj\Release\QexLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\obj\Release\QexLibrary.csproj.CopyComplete
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\obj\Release\qexLibrary.dll
+C:\Users\Goro\Google Drive\Universo BIM Ingenieria\40-VisualStudio\Desktop\QexStudio\QexStudio1.2\QexLibrary\obj\Release\qexLibrary.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\qexLibrary.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\qexLibrary.pdb
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\ObjectListView.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\SQLite.Net.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\SQLite.Net.Platform.Generic.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\SQLite.Net.Platform.Win32.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\System.Data.SQLite.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\ObjectListView.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\System.Data.SQLite.xml
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\bin\Release\System.Data.SQLite.dll.config
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\obj\Release\QexLibrary.csprojAssemblyReference.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\obj\Release\QexLibrary.csproj.CoreCompileInputs.cache
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\obj\Release\QexLibrary.csproj.CopyComplete
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\obj\Release\qexLibrary.dll
+C:\10-UbLocal\20-UniBim\40-VisualStudio\GitHub\Qex_Studio\QexStudio\QexLibrary\obj\Release\qexLibrary.pdb
